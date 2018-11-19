@@ -5,4 +5,6 @@ Does it cause conflict?
 
 conflict still resist
 
+add new conflict
+
 add a new word.
