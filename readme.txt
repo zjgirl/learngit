@@ -28,6 +28,3 @@ add a new word.
 6
 
 5
-
-
->>>>>>> 797d335c5c35633de14f932dcf264ba2427de33e
