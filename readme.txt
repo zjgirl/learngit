@@ -5,3 +5,7 @@ rainny day!
 today is sunny.
 add new friend.
 
+rainny day!
+
+today is sunny.
+
